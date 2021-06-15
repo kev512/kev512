@@ -1,7 +1,7 @@
-### Hi there, I'm Kewin Plewa 👋
+## Hi there, I'm Kewin Plewa 👋
 I'm Kewin from Poland, and I'm Junior Front-end Developer. I am interested in web technologies and mobile applications development. Currently, I am focusing on improving my skills in the field of creating mobile apps and front-end technologies such as JavaScript, React and Kotlin.
 
-## Skills and Experience
+### Skills and Experience
 * 💻 HTML5, CSS3, JavaScript
 * 📱 Ktolin, Android Studio
 * 🎨 UI/UX Design: Adobe XD
