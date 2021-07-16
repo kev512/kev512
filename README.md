@@ -2,7 +2,7 @@
 I'm Kewin from Poland, and I'm Junior Front-end Developer. I am interested in web technologies and mobile applications development. Currently, I am focusing on improving my skills in the field of creating mobile apps and front-end technologies such as JavaScript, React and Kotlin.
 
 ### Skills and Experience
-* 💻 HTML5, CSS3, JavaScript
+* 💻 HTML5, CSS3, JavaScript ES6
 * 📱 Kotlin, Android Studio IDE
 * 🎨 UI/UX Design: Adobe XD
 * 📡Networking: CCNA - 1
