@@ -3,7 +3,7 @@ I'm Kewin from Poland, and I'm Junior Front-end Developer. I am interested in we
 
 ### Skills and Experience
 * 💻 HTML5, CSS3, JavaScript
-* 📱 Ktolin, Android Studio
+* 📱 Kotlin, Android Studio IDE
 * 🎨 UI/UX Design: Adobe XD
 * 📡Networking: CCNA - 1
 
