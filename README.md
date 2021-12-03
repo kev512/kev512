@@ -5,8 +5,7 @@ I'm Kewin Plewa from Wroclaw (Poland) and I'm Junior Software Developer.
 * 📊 SQL, PL/SQL -> Oracle DB
 * 💻 JavaScript ES6, HTML5, CSS3
 * 📱 Kotlin -> Android Studio IDE
-* 🎨 UI/UX Design: Adobe XD
-* 📡Networking: CCNA - 1
+* 🎨 UI/UX Design: Adobe XD, Figma
 
 📫 How to reach me: kewin5@onet.eu
 
