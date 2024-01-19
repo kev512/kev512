@@ -1,9 +1,9 @@
 ## Hi there, I'm Kewin 👋
-I'm Kewin Plewa from Wroclaw (Poland) and I'm Junior Software Developer.
+I'm Kewin Plewa from Wroclaw (Poland) and I'm Software Developer.
 
 ### Skills and Experience
 * 📊 PL/SQL, SQL -> Oracle DB
-* 💻 JavaScript ES6, HTML5, CSS3
+* 💻 TypeScript, Angular
 * 📱 Kotlin -> Android Studio IDE
 
 📫 How to reach me: kewin5@onet.eu
