@@ -3,7 +3,7 @@ I'm Kewin Plewa from Wroclaw (Poland) and I'm Software Developer.
 
 ### Skills and Experience
 * 📊 PL/SQL, SQL -> Oracle DB
-* 💻 TypeScript, Angular
+* 💻 TypeScript, Angular, React
 * 📱 Kotlin -> Android Studio IDE
 
 📫 How to reach me: kewin5@onet.eu
